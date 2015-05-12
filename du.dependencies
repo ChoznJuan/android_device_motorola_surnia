@@ -1,0 +1,34 @@
+[
+  {
+    "repository": "android_kernel_motorola_msm8916",
+    "target_path": "kernel/motorola/msm8916"
+  },
+  {
+    "repository": "android_hardware_qcom_fm",
+    "target_path": "hardware/qcom/fm"
+  },
+  {
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common"
+  },
+  {
+    "repository": "android_device_qcom-common",
+    "target_path": "device/qcom-common"
+  },
+  {
+    "repository": "android_hardware_qcom_display",
+    "target_path": "hardware/display-caf/msm8916",
+    "branch": "cm-12.1-caf-8916"
+   },
+   {
+     "repository":  "android_hardware_media",
+     "target_path": "hardware/media-caf/msm8916",
+     "branch": "cm-12.1-caf-8916"
+   },
+   {
+     "repository": "vendor_motorola_surnia",
+     "target_path": "vendor/motorola/surnia"
+   }
+    
+]
+
